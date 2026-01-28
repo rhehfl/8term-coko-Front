@@ -8,33 +8,75 @@
 
 ---
 
-<!-- markdownlint-disable MD033 -->
+<h2 align="center">👥 8기 팀원</h2>
 
-## 👥 8기 팀원
+<div align="center">
+  
+  <h3>🖥️ Front-end</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/rhehfl">
+          <img src="https://github.com/user-attachments/assets/c9dc7ee4-c3e1-471d-ae2a-65d45bf5a782" width="100px;" alt=""/>
+          <br />
+          <b>구도윤</b><br />(팀장)
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/bluetree7878">
+          <img src="https://github.com/user-attachments/assets/7ec48940-caa9-4544-b78a-ce7bd6005d4c" width="100px;" alt=""/>
+          <br />
+          <b>신현성</b><br />(팀원)
+        </a>
+      </td>
+    </tr>
+  </table>
 
-### 🖥️ Front-end
+  <br />
 
-| <img src="https://github.com/user-attachments/assets/c9dc7ee4-c3e1-471d-ae2a-65d45bf5a782" width="100" alt="구도윤" /> | <img src="https://github.com/user-attachments/assets/7ec48940-caa9-4544-b78a-ce7bd6005d4c" width="100" alt="신현성" /> |
-| :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-|                                     [**구도윤**](https://github.com/rhehfl) (팀장)                                     |                                  [**신현성**](https://github.com/bluetree7878) (팀원)                                  |
+  <h3>🧠 Back-end</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/dg1418">
+          <img src="https://github.com/user-attachments/assets/b2a7859a-9bdb-404b-b022-01dbbb6ad715" width="100px;" alt=""/>
+          <br />
+          <b>홍대경</b><br />(회장)
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gwgw123">
+          <img src="https://github.com/user-attachments/assets/ab391b9d-50ca-4848-8ec7-78f31321da4e" width="100px;" alt=""/>
+          <br />
+          <b>이건우</b><br />(팀장)
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jeonheena">
+          <img src="https://github.com/user-attachments/assets/a2c37db9-4a67-4735-9318-536938741c3f" width="100px;" alt=""/>
+          <br />
+          <b>전희나</b><br />(팀원)
+        </a>
+      </td>
+    </tr>
+  </table>
 
----
+  <br />
 
-### 🧠 Back-end
+  <h3>🎨 Design</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.behance.net/010works">
+          <img src="https://github.com/user-attachments/assets/154be841-bf5b-4d71-acd7-5ad670ea5bd2" width="100px;" alt=""/>
+          <br />
+          <b>이채영</b><br />(팀장)
+        </a>
+      </td>
+    </tr>
+  </table>
 
-| <img src="https://github.com/user-attachments/assets/b2a7859a-9bdb-404b-b022-01dbbb6ad715" width="100" alt="홍대경" /> | <img src="https://github.com/user-attachments/assets/ab391b9d-50ca-4848-8ec7-78f31321da4e" width="100" alt="이건우" /> | <img src="https://github.com/user-attachments/assets/a2c37db9-4a67-4735-9318-536938741c3f" width="100" alt="전희나" /> |
-| :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-|                                     [**홍대경**](https://github.com/dg1418) (회장)                                     |                                    [**이건우**](https://github.com/gwgw123) (팀장)                                     |                                   [**전희나**](https://github.com/jeonheena) (팀원)                                    |
-
----
-
-### 🎨 Design
-
-| <img src="https://github.com/user-attachments/assets/154be841-bf5b-4d71-acd7-5ad670ea5bd2" width="100" alt="이채영" /> |
-| :--------------------------------------------------------------------------------------------------------------------: |
-|                                 [**이채영**](https://www.behance.net/010works) (팀장)                                  |
-
-<!-- markdownlint-enable MD033 -->
+</div>
 
 ---
 
